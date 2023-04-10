@@ -9,11 +9,8 @@
 </div>
 
 <div align="center">
-
-## 🐦 Latest Tweet
-
-[![](https://gtce.itsvg.in/api?username=celiosevii)](https://twitter.com/celiosevii)
-
+<p style="font-family="roboto">Im an amateur developer and student, Constantly exploring the world of technology and finding new ways to use it to create meaningful experiences for myself and others. From coding projects to exploring the latest innovations in the field, I'm always seeking out opportunities to grow and learn. Whether it's through building websites, experimenting with new languages and platforms, or diving into the world of machine learning and artificial intelligence, I'm passionate about using technology to make a positive impact on the world. With a focus on creativity, problem-solving, and collaboration, I'm excited to see where my journey as a developer will take me next.</p>
+  
 ---
 
 [![](https://visitcount.itsvg.in/api?id=wrappedcelio&icon=0&color=0)](https://github.com/wrappedcelio)
