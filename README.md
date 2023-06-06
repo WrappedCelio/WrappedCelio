@@ -1,7 +1,7 @@
 <div align="center">
   <h1>Celio Sevii</h1>
   <h3>Developer</h3>
-  <p>celiosevii@gmail.com</p>
+  <p>celiosevii@pm.me</p>
   <p>Decentralization of finance and data is going to create the next revolution, it cannot be stopped.</p>
   <p>
     <a href="https://twitter.com/intent/follow?screen_name=celiosevii"><img src="https://img.shields.io/twitter/follow/celiosevii?style=social" alt="Twitter"></a>
